@@ -1,0 +1,12 @@
+C:\Users\andre\source\repos\apiBook.Model\bin\Debug\net6.0\apiBook.Model.deps.json
+C:\Users\andre\source\repos\apiBook.Model\bin\Debug\net6.0\apiBook.Model.dll
+C:\Users\andre\source\repos\apiBook.Model\bin\Debug\net6.0\ref\apiBook.Model.dll
+C:\Users\andre\source\repos\apiBook.Model\bin\Debug\net6.0\apiBook.Model.pdb
+C:\Users\andre\source\repos\apiBook.Model\obj\Debug\net6.0\apiBook.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\apiBook.Model\obj\Debug\net6.0\apiBook.Model.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\apiBook.Model\obj\Debug\net6.0\apiBook.Model.AssemblyInfo.cs
+C:\Users\andre\source\repos\apiBook.Model\obj\Debug\net6.0\apiBook.Model.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\apiBook.Model\obj\Debug\net6.0\apiBook.Model.dll
+C:\Users\andre\source\repos\apiBook.Model\obj\Debug\net6.0\ref\apiBook.Model.dll
+C:\Users\andre\source\repos\apiBook.Model\obj\Debug\net6.0\apiBook.Model.pdb
+C:\Users\andre\source\repos\apiBook.Model\obj\Debug\net6.0\apiBook.Model.csproj.AssemblyReference.cache

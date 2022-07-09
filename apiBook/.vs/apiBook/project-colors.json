@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e48d20fa-c50b-4891-b41a-5ecb5a99b2e3": {
+      "ProjectGuid": "e48d20fa-c50b-4891-b41a-5ecb5a99b2e3",
+      "DisplayName": "apiBook.Data",
+      "ColorIndex": 0
+    },
+    "0721b535-b096-4b35-bc22-5444ed39d0a6": {
+      "ProjectGuid": "0721b535-b096-4b35-bc22-5444ed39d0a6",
+      "DisplayName": "apiBook.Model",
+      "ColorIndex": 1
+    },
+    "a0b4e325-c49b-4101-9119-42a07912da6a": {
+      "ProjectGuid": "a0b4e325-c49b-4101-9119-42a07912da6a",
+      "DisplayName": "apiBook",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

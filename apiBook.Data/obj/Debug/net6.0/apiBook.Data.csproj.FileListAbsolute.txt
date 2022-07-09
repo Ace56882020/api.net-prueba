@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\apiBook.Data\bin\Debug\net6.0\apiBook.Data.deps.json
+C:\Users\andre\source\repos\apiBook.Data\bin\Debug\net6.0\apiBook.Data.dll
+C:\Users\andre\source\repos\apiBook.Data\bin\Debug\net6.0\ref\apiBook.Data.dll
+C:\Users\andre\source\repos\apiBook.Data\bin\Debug\net6.0\apiBook.Data.pdb
+C:\Users\andre\source\repos\apiBook.Data\bin\Debug\net6.0\apiBook.Model.dll
+C:\Users\andre\source\repos\apiBook.Data\bin\Debug\net6.0\apiBook.Model.pdb
+C:\Users\andre\source\repos\apiBook.Data\obj\Debug\net6.0\apiBook.Data.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\apiBook.Data\obj\Debug\net6.0\apiBook.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\apiBook.Data\obj\Debug\net6.0\apiBook.Data.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\apiBook.Data\obj\Debug\net6.0\apiBook.Data.AssemblyInfo.cs
+C:\Users\andre\source\repos\apiBook.Data\obj\Debug\net6.0\apiBook.Data.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\apiBook.Data\obj\Debug\net6.0\apiBook.Data.csproj.CopyComplete
+C:\Users\andre\source\repos\apiBook.Data\obj\Debug\net6.0\apiBook.Data.dll
+C:\Users\andre\source\repos\apiBook.Data\obj\Debug\net6.0\ref\apiBook.Data.dll
+C:\Users\andre\source\repos\apiBook.Data\obj\Debug\net6.0\apiBook.Data.pdb
