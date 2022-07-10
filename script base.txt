@@ -9,7 +9,7 @@ CREATE TABLE public.book
     descriptionbook character varying COLLATE pg_catalog."default",
     authorbook character varying COLLATE pg_catalog."default",
     numbercopies bigint,
-    cost bigint,
+    cost double precision NOT NULL,
     publicationdate character varying COLLATE pg_catalog."default",
     CONSTRAINT book_pkey PRIMARY KEY (id)
 )
