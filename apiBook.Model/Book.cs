@@ -14,7 +14,7 @@ namespace apiBook.Model
         public string? Authorbook { get; set; }
         public string? PublicationDate { get; set; }
         public int NumberCopies { get; set; }
-        public int Cost { get; set; }
+        public Double Cost { get; set; }
         
     }
 }
