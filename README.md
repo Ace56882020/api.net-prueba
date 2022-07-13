@@ -1,11 +1,18 @@
 api.net-prueba
 api en .net
 
-SE CONFIGURO POSTGRES COMO MANEJADOR DE BASE DE DATOS,
 
-se adjunta el script base.txt, para poder cargar el modelo, dentro del proyecto 
+Postgres
+crear una nueva base de datos de nombre books, y cargar el archivo script base.txt en la consola y correr el script,
 
-en el proyecto de .net (apiBook) en el archivo appsettings.json configuramos el acceso a la base de datos, con el usuario y contrasña
+.NET
+Dentro del proyecto apiBook, proceder a seleccionar proyecto apiBook.Data presionamos click derecho y seleccionar administrar paquete Nuget,
+buscamos el paquete Npgsql y lo instalamos.
+
+Configuracion de conexión a BDD
+En el proyecto apiBook abrimos el archivo appsettings.json configuramos el acceso a la base de datos, en la variable SqlServeConnection modificaremos los datos de la conexón
+
+Reemplazar el usuario y el password por los de la base de Postgres
 
 {
   "Logging": {
@@ -21,12 +28,7 @@ en el proyecto de .net (apiBook) en el archivo appsettings.json configuramos el 
   
 }
 
-el proyecto se conforma de la api rest principal apiBook
-una capa apiBook.Data que gestiona las consultas
-y el modelo apiBook.Data
+Para ejecutar el programa apiBook, vamos a la barra de menu y seleccionamos depurar/ iniciar depuración o F5
 
-se debe instalar Npgsql del paquete de Nuget en el proyecto apiBook.Data, para poder tener el acceso a la base de datos, en el proyecto 
-se debe dar un clic derecho /administrar paquetes nuget
-y en la ventana izquierda en la pestaña examinar buscamos el paquete a instalar
-y ya podemos ejecutar el proyecto, el cual nos llevara a la pagina de la api, donde se puede realizar las consultas o peticiones corresponientes
+se desplegara una pagina swagger, con la api y las rutas
 
