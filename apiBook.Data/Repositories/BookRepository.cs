@@ -27,7 +27,7 @@ namespace apiBook.Data.Repositories
         {
             var db = dbConnection();
             var sql = @"
-                    SELECT id, namebook, descriptionbook, authorbook, publicationdate, numbercopies, cost FROM public.book
+                    SELECT id, namebook, descriptionbook, authorbook, publicationdate, numbercopies, cost FROM public.book order by id desc
                 ";
             return await db.QueryAsync<Book>(sql, new {  });
         }
